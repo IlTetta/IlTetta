@@ -1,17 +1,46 @@
-# 💫 About Me:
-Hello! I'm Andrea, a Computer Science student currently in my third year of university.<br>My journey in computer science has allowed me to gain hands-on experience with various programming languages and technologies, including Java, C and C++.<br><br>I'm constantly looking for opportunities to expand my knowledge and work on challenging projects. On my GitHub, you'll find a collection of projects and code samples that reflect my academic work and personal interests.<br><br>Feel free to explore my repositories.
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=140&section=header&text=Andrea&fontSize=52&fontColor=58a6ff&fontAlignY=55&animation=fadeIn)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iltetta__01) 
+**Computer Science · Master's Degree** · First Year
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IlTetta&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IlTetta&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlTetta&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*Building things, breaking things, learning from both.*
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IlTetta&label=Profile%20Views&color=9&icon=3&pretty=true)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+I'm Andrea, a CS Master's student with a background in systems and application programming. My work spans low-level C++ development, higher-level Java applications and a little bit of web programming.
+
+I use this profile to document academic projects and personal experiments — the kind of code that actually taught me something.
+
+---
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+---
+
+## Currently
+
+- 📚 First year MSc — game design, game dev, graphic programming (C++ / OpenGL), machine learning, HPC
+---
+
+## Connect
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/iltetta__01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IlTetta)
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=80&section=footer)
+
+</div>
