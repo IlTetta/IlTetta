@@ -12,7 +12,7 @@
 
 I'm Andrea, a CS Master's student with a background in systems and application programming. My work spans low-level C++ development, higher-level Java applications and a little bit of web programming.
 
-I use this profile to document academic projects and personal experiments — the kind of code that actually taught me something.
+I use this profile to document academic projects and personal experiments, the kind of code that actually taught me something.
 
 ---
 
@@ -29,7 +29,7 @@ I use this profile to document academic projects and personal experiments — th
 
 ## Currently
 
-- 📚 First year MSc — game design, game dev, graphic programming (C++ / OpenGL), machine learning, HPC
+- 📚 First year MSc: game design, game dev, graphic programming (C++ / OpenGL), machine learning, HPC
 ---
 
 ## Connect
